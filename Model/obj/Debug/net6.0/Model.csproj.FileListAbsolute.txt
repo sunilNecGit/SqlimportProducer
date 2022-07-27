@@ -1,0 +1,12 @@
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\bin\Debug\net6.0\Model.deps.json
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\bin\Debug\net6.0\Model.dll
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\bin\Debug\net6.0\Model.pdb
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.dll
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\refint\Model.dll
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\Model.pdb
+E:\Demo\DotNetSharp\RabitMQMasTrnistSqlimport\Model\obj\Debug\net6.0\ref\Model.dll
